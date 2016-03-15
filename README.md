@@ -5,7 +5,7 @@ Docker image with [Golang](https://golang.org/) [Goose Database migration tool](
 
 ## Why
 
-Quite a few times I use [Docker](https://www.docker.com/) to setup the entire development environment of a project; some of them require migrations and I sometimes use Goose for them, so I needed a docker image which allows to run migrations Goose migrations on the database docker container.
+Quite a few times I use [Docker](https://www.docker.com/) to setup the entire development environment of a project; some of them require migrations and I sometimes use Goose for them, so I needed a docker image which allows to run Goose migrations on the database docker container.
 
 So this docker imaged cover those personal needs.
 
