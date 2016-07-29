@@ -1,7 +1,7 @@
 Docker Goose
 ============
 
-Docker image with [Golang](https://golang.org/) [Goose Database migration tool](https://bitbucket.org/liamstask/goose)
+Docker image with [Golang](https://golang.org/) [Goose Database migration tool](https://github.com/steinbacher/goose)
 
 ## Why
 
